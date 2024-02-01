@@ -1,8 +1,19 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Status: finished.
 
-Currently, two official plugins are available:
+### News feed created together with rocketseat, in this project, I made a very good leap forward in relation to reactjs, I learned how to use properties from other components, using props as a parameter or even destructuring properties. I also learned some more css properties too, and learned how to use the css module, and how tags generated with random codes work to be able to use the same class name in other places as well.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### result DeskTop:
+
+<p align="center">
+    <img width="600" src="./src/assets/readme-img.webp">
+</p>
+
+### result Mobile:
+
+<p align="center">
+    <img width="460" src="./src/assets/readme-img-mobile.webp">
+</p>
+
+## In this project, I used ReactJs, JavaScript, CSS Module, HTML (JSX) and Git .
